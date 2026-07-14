@@ -1,0 +1,10 @@
+{
+    "name": "Placement Portal",
+    "short_name": "PPA",
+    "description": "Campus Recruitment Management System",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0d6efd",
+    "icons": []
+}
